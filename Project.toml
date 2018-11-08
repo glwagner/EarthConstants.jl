@@ -1,0 +1,6 @@
+authors = ["Gregory Wagner <wagner.greg@gmail.com>"]
+name = "EarthConstants"
+uuid = "384beef0-e39c-11e8-0524-11a529e18135"
+version = "0.1.0"
+
+[deps]
